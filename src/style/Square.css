@@ -1,0 +1,21 @@
+#square {
+    color: grey;
+    height: 100px;
+    width: 100px;
+    border: 1px solid;
+}
+
+.originalBorder {
+    border: 1px solid;
+    background-color: white;
+}
+
+.turnOnBorder {
+    border: 1px solid grey;
+    background-color: black;
+}
+
+.turnOffBorder {
+    border: 1px solid grey;
+    background-color: white;
+}
